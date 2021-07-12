@@ -1,7 +1,7 @@
 {
-  "name": "msal-capacitor-plugin",
+  "name": "wgbn-msal-capacitor-plugin",
   "version": "0.0.1",
-  "description": "MSAL capacitor plugin",
+  "description": "WGBN MSAL capacitor plugin",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
