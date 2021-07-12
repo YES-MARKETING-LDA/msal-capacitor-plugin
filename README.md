@@ -2,6 +2,8 @@
 
 MSAL capacitor plugin
 
+WARNING: Work only with android
+
 ## Install
 
 ```bash
@@ -11,9 +13,26 @@ npx cap sync
 
 ## API
 
-<docgen-index></docgen-index>
+<docgen-index>
+
+* [`loginWithMsAD(...)`](#loginwithmsad)
+
+</docgen-index>
 
 <docgen-api>
-<!-- run docgen to generate docs from the source -->
-<!-- More info: https://github.com/ionic-team/capacitor-docgen -->
+
+### loginWithMsAD(...)
+
+```typescript
+loginWithMsAD(options: any) => any
+```
+
+| Param         | Type             |
+| ------------- | ---------------- |
+| **`options`** | <code>any</code> |
+
+**Returns:** <code>Promise</code>
+
+--------------------
+
 </docgen-api>
